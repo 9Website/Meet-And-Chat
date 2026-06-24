@@ -5,6 +5,8 @@
 > [!WARNING]
 > If you modify this code and host it publicly, the AGPL v3.0 license requires you to keep your code open-source.
 
+---
+
 # P2P Video Chat & Workspace App
 
 A secure, cross-platform, peer-to-peer (P2P) video chat and collaborative workspace application. Built with WebRTC, this platform allows users to connect instantly via 6-digit alphanumeric room codes, share files, edit text in real-time, and manage rooms with advanced host controls.
