@@ -1,11 +1,6 @@
 # <img src="https://img.shields.io/badge/GitHub-9Website-black?style=for-the-badge&logo=github" height="45">
 
-This is normal text.
-<small>This text will be noticeably smaller and perfect for captions.</small>
-
-This is normal text.
-<sub>This text is shrunk down and shifted slightly down.</sub>
-<sup>This text is shrunk down and shifted slightly up.</sup>
+TL;DR (Too Long Didn't Read) at the bottom.
 
 ---
 # P2P Video Chat & Workspace App
