@@ -51,8 +51,13 @@ If the PeerJS public cloud servers are down, you can make your own server by dow
 
 </details>
 
+**TL;DR**
+
 | Feature | Description |
 | :--- | :--- |
 | 🔒 **P2P Encryption** | Video streams go directly between peers, never touching a server. |
 | 💬 **Workspace** | Real-time text chat, file sharing, and collaborative text editing. |
 | 🚫 **Host Controls** | Kick annoying users and issue hardware-based bans instantly. |
+
+![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
+![Tech: WebRTC](https://img.shields.io/badge/Tech-WebRTC-orange.svg)
