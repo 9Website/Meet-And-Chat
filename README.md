@@ -68,6 +68,21 @@ Once Node.js is installed, open your **Command Prompt** (Windows) or **Terminal*
    ```bash
    npm install peer -g
 
+Launch the server:
+
+Bash:
+peerjs --port 9000 --key peerjs
+
+⚠️ Important Warnings & Precautions
+[!WARNING]
+Don't Close the Window: The server only runs as long as that Command Prompt or Terminal window is open. If you close it, your friends will be disconnected instantly.
+
+[!CAUTION]
+Firewall Blocks: If your friends try to connect to your local server and it fails, your computer's firewall or antivirus might be blocking port 9000. You may need to allow Node.js through your firewall settings.
+
+[!NOTE]
+Local vs Public: Running this on your computer means it works perfectly for devices on your own home Wi-Fi network. If you want friends from outside your house to connect to your private server, you would need to look into advanced "Port Forwarding" on your internet router.
+
  </details>
 
 ## **TL;DR**
