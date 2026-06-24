@@ -47,41 +47,7 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 
 If the PeerJS public cloud servers are down or are experiencing issues, you can make your own server by downloading Node.js and then running your own private signaling backend to make it work as it would with the public cloud servers up and running.
 
-<details>
-<summary><h2>🛠️ Step-by-Step Self-Hosting Guide</h2></summary>
-
-### 1. Download & Install Node.js
-You need to install Node.js so your computer can run the server commands.
-
-| Operating System | How to Download |
-| :--- | :--- |
-| 🪟 **Windows** | Download and run the **Windows Installer (.msi)** from the official [Node.js Website](https://nodejs.org/). |
-| 🍏 **macOS** | Download and run the **macOS Installer (.pkg)** from the [Node.js Website](https://nodejs.org/). |
-| 🐧 **Linux** | Run `sudo apt install nodejs npm` in your terminal. |
-
 ---
-
-### 2. How to Run the Mini-Server
-Once Node.js is installed, open your **Command Prompt** (Windows) or **Terminal** (Mac/Linux) and run these two commands:
-
-1. **Install the server tool:**
-   ```bash
-   npm install peer -g
-
-2. **Launch the server:**
-   `peerjs --port 9000 --key peerjs`
-
-### ⚠️ Important Warnings & Precautions
-[!WARNING]
-Don't Close the Window: The server only runs as long as that Command Prompt or Terminal window is open. If you close it, your friends will be disconnected instantly.
-
-[!CAUTION]
-Firewall Blocks: If your friends try to connect to your local server and it fails, your computer's firewall or antivirus might be blocking port 9000. You may need to allow Node.js through your firewall settings.
-
-[!NOTE]
-Local vs Public: Running this on your computer means it works perfectly for devices on your own home Wi-Fi network. If you want friends from outside your house to connect to your private server, you would need to look into advanced "Port Forwarding" on your internet router.
-
- </details>
 
 ## **TL;DR**
 
