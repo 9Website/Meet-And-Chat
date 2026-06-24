@@ -71,7 +71,7 @@ Once Node.js is installed, open your **Command Prompt** (Windows) or **Terminal*
 Launch the server:
 
 Bash:
-peerjs --port 9000 --key peerjs
+`peerjs --port 9000 --key peerjs`
 
 ⚠️ Important Warnings & Precautions
 [!WARNING]
