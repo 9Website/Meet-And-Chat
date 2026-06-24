@@ -49,13 +49,17 @@ If the PeerJS public cloud servers are down or are experiencing issues, you can 
 
 ---
 
-## **TL;DR**
+## ⏱️ TL;DR (Too Long; Didn't Read)
+
+> [!NOTE]
+> This is a **100% serverless, browser-to-browser** workspace. No accounts, no data logging, and no middleman.
 
 | Feature | Description |
 | :--- | :--- |
-| 🔒 **P2P Encryption** | Video streams go directly between peers, never touching a server. |
-| 💬 **Workspace** | Real-time text chat, file sharing, and collaborative text editing. |
-| 🚫 **Host Controls** | Kick annoying users and issue hardware-based bans instantly. |
+| 🔒 **P2P Encryption** | Video streams go directly between peers using `WebRTC`, never touching an external server. |
+| 💬 **Live Workspace** | Real-time text chat, seamless file sharing, and a shared collaborative text editor. |
+| 🚫 **Host Controls** | Kick annoying users and issue instant hardware-based bans directly from your browser. |
 
+---
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 ![Tech: WebRTC](https://img.shields.io/badge/Tech-WebRTC-orange.svg)
