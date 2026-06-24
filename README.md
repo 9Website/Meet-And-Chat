@@ -1,7 +1,7 @@
 # <img src="https://img.shields.io/badge/GitHub-9Website-black?style=for-the-badge&logo=github" height="45">
 
 ---
-<small>TL;DR (Too Long Didn't Read) at the bottom.</small>
+<small>This text will be smaller than the normal paragraph text.</small>
 
 <span style="font-size: 75%;">This text is 75% of normal size!</span>
 <span style="font-size: 60%;">This text is 60% of normal size!</span>
