@@ -72,7 +72,7 @@ If you run into any bugs or issues, feel free to report them in the Issues tab o
 | :--- | :--- |
 | 🔒 **P2P Encryption** | Audio, video, and data transfer directly between peers using WebRTC. Only signaling/STUN servers are used for connection setup. |
 | 💬 **Live Workspace** | Real-time chat, file sharing, and collaborative document editing for seamless teamwork. |
-| 🚫 **Host Controls** | Full room moderation: transfer ownership, kick/ban users, mute participants, and control device permissions. |
+| 🚫 **Host Controls** | Full room moderation: transfer ownership, kick/ban users, mute participants, control device permissions, vanish people's visibility, apply all features and a waiting room. |
 
 ---
 
