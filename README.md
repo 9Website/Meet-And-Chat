@@ -2,9 +2,10 @@
 
 ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![Peeron](https://img.shields.io/badge/Peeron-Chat%20%7C%20Voice%20%7C%20Video-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white" height="45")
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semantic-release&logoColor=white" height="45")
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" height="45")
+![Peeron](https://img.shields.io/badge/Peeron-Chat%20%7C%20Voice%20%7C%20Video-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semantic-release&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![GitHub-9Website](https://img.shields.io/badge/GitHub-9Website-black?style=for-the-badge&logo=github)
 
 
 
