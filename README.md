@@ -2,6 +2,8 @@
 
 ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
+https://img.shields.io/badge/Peeron-Online-1f6feb?style=for-the-badge&logo=https://raw.githubusercontent.com/9Website/Peeron/main/peeron.svg
+
 # To access this site go to: [`https://9website.github.io/Peeron/`](https://9website.github.io/Peeron/)
 
 TL;DR (Too Long Didn't Read) is at the bottom.
