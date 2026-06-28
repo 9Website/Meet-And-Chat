@@ -2,27 +2,6 @@
 
 ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![Peeron](https://img.shields.io/badge/Peeron-Chat%20%7C%20Voice%20%7C%20Video-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semantic-release&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![GitHub-9Website](https://img.shields.io/badge/GitHub-9Website-black?style=for-the-badge&logo=github)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![PeerJS](https://img.shields.io/badge/PeerJS-Connected-4A90E2?style=for-the-badge&logo=peerjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
-![Issues](https://img.shields.io/badge/Issues-Open-blue?style=for-the-badge&logo=github&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-![GitHub-9Website](https://img.shields.io/badge/GitHub-9Website-black?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-Give%20A%20Star!-black?style=for-the-badge&logo=github&logoColor=white)
-
-![MadeWithLove](https://img.shields.io/badge/Made%20With❤️-Peeron-ff69b4?style=for-the-badge)
-![OpenSource](https://img.shields.io/badge/Open%20Source-Yes-3f51b5?style=for-the-badge&logo=github&logoColor=white)
-
-
 # To access this site go to: [`https://9website.github.io/Peeron/`](https://9website.github.io/Peeron/)
 
 TL;DR (Too Long Didn't Read) is at the bottom.
