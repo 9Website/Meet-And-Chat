@@ -2,6 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" height="120" />
 
+<img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" width="200" />
+
+<img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" width="200" height="200" />
+
+<img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" height="120" />
 
 
 # To access this site go to: [`https://9website.github.io/Peeron/`](https://9website.github.io/Peeron/)
