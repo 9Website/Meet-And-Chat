@@ -2,7 +2,8 @@
 
 ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![Peeron-Online](https://img.shields.io/badge/Peeron-Online-1f6feb?style=for-the-badge&logo=https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png)
+![Peeron-Online](https://img.shields.io/badge/Peeron-Online-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
+
 
 
 # To access this site go to: [`https://9website.github.io/Peeron/`](https://9website.github.io/Peeron/)
