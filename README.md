@@ -1,7 +1,12 @@
 ![Github](https://img.shields.io/badge/Github-9Website-lightgrey?style=for-the-badge&logo=Github)   ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![Live](https://img.shields.io/badge/Live-Status-green?style=for-the-badge&logo=rss)
+---
 
+![Live](https://img.shields.io/badge/Live-Status-green?style=for-the-badge&logo=rss) - ![GitHub release](https://img.shields.io/github/v/release/9Website/Peeron)
+- ![Commit activity](https://img.shields.io/github/commit-activity/m/9Website/Peeron) - ![Last commit](https://img.shields.io/github/last-commit/9Website/Peeron)
+- ![Issues](https://img.shields.io/github/issues/9Website/Peeron) - ![Stars](https://img.shields.io/github/stars/9Website/Peeron) - ![License](https://img.shields.io/github/license/9Website/Peeron) - ![Code size](https://img.shields.io/github/languages/code-size/9Website/Peeron) - ![Top language](https://img.shields.io/github/languages/top/9Website/Peeron) - 
+
+  
 ---
 
 ![Build Status](https://github.com/9Website/Peeron/actions/workflows/build.yml/badge.svg)
