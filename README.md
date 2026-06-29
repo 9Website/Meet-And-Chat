@@ -1,25 +1,36 @@
-![Github](https://img.shields.io/badge/Github-9Website-lightgrey?style=for-the-badge&logo=Github)   ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-9Website-lightgrey?style=for-the-badge&logo=Github" />
+  <img src="https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white" />
+</p>
 
 ---
 
-![Live](https://img.shields.io/badge/Live-Status-green?style=for-the-badge&logo=rss)
+<p align="center">
+  <img src="https://img.shields.io/badge/Live-Status-green?style=for-the-badge&logo=rss" />
+</p>
 
 ---
 
-![Build](https://github.com/9Website/Peeron/actions/workflows/build.yml/badge.svg?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/9Website/Peeron?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/9Website/Peeron?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/9Website/Peeron?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/9Website/Peeron?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/9Website/Peeron?style=for-the-badge)
-![License](https://img.shields.io/github/license/9Website/Peeron?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/9Website/Peeron?style=for-the-badge)
-
-
+<p align="center">
+  <img src="https://github.com/9Website/Peeron/actions/workflows/build.yml/badge.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/9Website/Peeron?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/9Website/Peeron?style=for-the-badge" />
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" width="200" />
+<p align="center">
+  <a href="https://github.com/9Website/Peeron">
+    <img src="https://raw.githubusercontent.com/9Website/Peeron/main/peeron.png" width="200" />
+  </a>
+  <br>
+  <i>Connect • Chat • Share</i>
+</p>
 
 # To access this site go to: [`https://9website.github.io/Peeron/`](https://9website.github.io/Peeron/)
 
