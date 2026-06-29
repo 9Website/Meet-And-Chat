@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/9Website/Peeron/actions/workflows/build.yml/badge.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/actions/workflow/status/9Website/Peeron/build.yml?branch=main&style=for-the-badge" />
   <img src="https://img.shields.io/github/v/release/9Website/Peeron?style=for-the-badge" />
   <img src="https://img.shields.io/github/commit-activity/m/9Website/Peeron?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/9Website/Peeron?style=for-the-badge" />
