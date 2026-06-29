@@ -1,6 +1,6 @@
 ![Github](https://img.shields.io/badge/Github-9Website-lightgrey?style=for-the-badge&logo=Github)   ![Peeron](https://img.shields.io/badge/Peeron-Connect%20%7C%20Chat%20%7C%20Share-1f6feb?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![Live](https://img.shields.io/badge/Live-Status-green?style=flat)
+![Live](https://img.shields.io/badge/Live-Status-green?style=for-the-badge&logo=rss)
 
 ---
 
